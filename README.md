@@ -1,4 +1,4 @@
-# MCP Desktop Host (Experimental Reference)
+# DeskAgent MCP Desktop Host (Experimental Reference)
 
 A modular desktop application that hosts Model Context Protocol (MCP) servers inside a local environment. Built with **Tauri** (Rust + React) for the frontend and **Python** for the AI orchestration layer.
 
